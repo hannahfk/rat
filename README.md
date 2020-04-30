@@ -1,1 +1,1 @@
-# rat
+# This project was created for Zero to Mastery Coding Start Up Landing Page Challenge. The design is from Creative Tim's Paper Kit 2 UI Kit which can be found here: https://demos.creative-tim.com/now-ui-kit/index.html
